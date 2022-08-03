@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to right, blue, green);
+}
+
+.calculator {
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 10px 10px green;
+    width: 25%;
+    padding: 35px;
+    align-items: center;
+    margin-left: 36%;
+    margin-top: 3%;
+}
+
+h1 {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 4rem;
+}
+
+.numbers {
+    margin-left: 75px;
+}
+
+button {
+    border-radius: 15px;
+    border-color: white;
+    background-color: aquamarine;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin: 10px;
+    height: 5rem;
+    width: 5rem;
+}
+
+.result-btn button {
+    width: 294px;
+}
