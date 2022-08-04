@@ -1,6 +1,6 @@
 function clickNum(number) {
-    alr_text = document.getElementById("enter_calc_num").innerText
-    document.getElementById("enter_calc_num").textContent = alr_text + ' ' + number
+    alrText = document.getElementById("enter_calc_num").innerText
+    document.getElementById("enter_calc_num").textContent = alrText + ' ' + number
 }
 
 function clearCalc() {
