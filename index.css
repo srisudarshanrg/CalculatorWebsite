@@ -5,7 +5,7 @@ body {
 .calculator {
     border-radius: 10px;
     background-color: white;
-    box-shadow: 10px 10px green;
+    box-shadow: 10px 10px darkgreen;
     width: 25%;
     padding: 35px;
     align-items: center;
@@ -14,9 +14,10 @@ body {
 }
 
 h1 {
-    border: 2px solid black;
+    border: 3px solid darkgrey;
     text-align: center;
-    font-size: 4rem;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .numbers {
